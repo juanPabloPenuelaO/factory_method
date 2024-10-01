@@ -1,0 +1,3 @@
+interface Documento {
+    void imprimir();
+}
